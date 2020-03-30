@@ -1,6 +1,6 @@
 # developer-tooling
 
-Useful tools out there that can be use mainly for developers.
+Useful tools out there that can be useful mainly for developers.
 
 
 ## Git
